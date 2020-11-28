@@ -4,7 +4,7 @@
 - 💬 Ask me about **Emacs, Docker, PHP, VueJS**
 
 ### Connect with me:
-<a href="https://stackoverflow.com/users/mark-cameron" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mark-cameron" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/461873/mark-cameron" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mark-cameron" height="30" width="40" /></a>
 <a href="https://instagram.com/markcameron" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="markcameron" height="30" width="40" /></a>
 
 ### Languages and Tools:
