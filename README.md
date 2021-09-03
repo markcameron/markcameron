@@ -7,7 +7,27 @@
 <a href="https://stackoverflow.com/users/461873/mark-cameron" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mark-cameron" height="30" width="40" /></a>
 <a href="https://instagram.com/markcameron" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="markcameron" height="30" width="40" /></a>
 
-### Languages and Tools:
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### Languages
+
+![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP)
+![Javascript](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=Javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
+
+### Technologies
+
+![PHP](https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=Laravel)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
+![Drupal](https://img.shields.io/badge/-Drupal-000?style=for-the-badge&logo=Drupal)
+![ElasticSearch](https://img.shields.io/badge/-Elastic%20Search-000?style=for-the-badge&logo=ElasticSearch)
+![VueJS](https://img.shields.io/badge/-VueJS-000?style=for-the-badge&logo=Vue.js)
+![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=Redis)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=Kubernetes)
+![Grafana](https://img.shields.io/badge/-Grafana-000?style=for-the-badge&logo=Grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?style=for-the-badge&logo=Prometheus)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL)
+![MariaDB](https://img.shields.io/badge/-MariaDB-000?style=for-the-badge&logo=MariaDB)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL)
 
 [![Mark Cameron's stats](https://github-readme-stats.vercel.app/api?username=markcameron&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
